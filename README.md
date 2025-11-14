@@ -22,3 +22,4 @@ A task manager made by Reactjs, Redux, TypeScript, Firebase, shadcn/ui, and Tail
 - [Vite](https://vitejs.dev/)
 - [Firebase](https://firebase.google.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [dnd-kit](https://dndkit.com/)
